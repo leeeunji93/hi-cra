@@ -1,7 +1,8 @@
+
 export const App = () => {
   return (
     <h1>
-      without CRA
+      without CRAss
     </h1>
   );
 }
