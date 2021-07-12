@@ -11,6 +11,5 @@ module.exports = {
     new webpack.DefinePlugin({
       "process.env.name": JSON.stringify("yes-dev"),
     }),
-    new ReactRefreshWebpackPlugin(),
   ],
 };
